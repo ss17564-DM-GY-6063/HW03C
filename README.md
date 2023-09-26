@@ -7,6 +7,10 @@ Markdown Cheatsheet (from [https://www.markdownguide.org/cheat-sheet/](https://w
 ---
 ---
 
+#### thinking process
+According to the concept with lots of points and lines, the only way I can handle is to make these points into 2 groups, then line them with order.
+I use one for funtion to control the amount of circles, several random to position the circles and the change size of them.
+
 # Heading1
 ## Heading2
 ### Heading3
